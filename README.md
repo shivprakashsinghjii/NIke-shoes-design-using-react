@@ -1,6 +1,6 @@
-Instructions
-npm install
-npm run dev
+<h1>Instructions</h1></br>
+<h3>npm install</h3></br>
+<h3>npm run dev</h3></br>
 
 <img width="1158" alt="image" src="https://user-images.githubusercontent.com/50476777/236659089-c7d1675e-4b81-4dcc-8e09-bd09bb444917.png">
 
